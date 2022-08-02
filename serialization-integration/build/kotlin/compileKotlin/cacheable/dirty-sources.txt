@@ -1,0 +1,7 @@
+/Users/y9san9/IdeaProjects/types-serialization-reproduce/serialization-integration/src/main/kotlin/app/meetacy/backend/types/serialization/NotificationIdSerializer.kt
+/Users/y9san9/IdeaProjects/types-serialization-reproduce/serialization-integration/src/main/kotlin/app/meetacy/backend/types/serialization/DateSerializer.kt
+/Users/y9san9/IdeaProjects/types-serialization-reproduce/serialization-integration/src/main/kotlin/app/meetacy/backend/types/serialization/UserIdSerializer.kt
+/Users/y9san9/IdeaProjects/types-serialization-reproduce/serialization-integration/src/main/kotlin/app/meetacy/backend/types/serialization/AccessTokenSerializer.kt
+/Users/y9san9/IdeaProjects/types-serialization-reproduce/serialization-integration/src/main/kotlin/app/meetacy/backend/types/serialization/LocationSerializer.kt
+/Users/y9san9/IdeaProjects/types-serialization-reproduce/serialization-integration/src/main/kotlin/app/meetacy/backend/types/serialization/AccessHashSerializer.kt
+/Users/y9san9/IdeaProjects/types-serialization-reproduce/serialization-integration/src/main/kotlin/app/meetacy/backend/types/serialization/MeetingIdSerializer.kt
